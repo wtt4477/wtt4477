@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vera
 - 👀 I’m interested in Web/front end/full stack developing, data analytics and system integration
-- 🌱 I’m currently learning React and NodeJS
+- 🌱 I’m currently learning Angular React and NodeJS
 
 
 <!---
